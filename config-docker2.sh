@@ -1,3 +1,3 @@
 #!/bin/sh
-echo "Check folder"
 echo "Set permissions for docker ..."
+chmod 666 /var/run/docker.sock
