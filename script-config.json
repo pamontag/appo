@@ -1,0 +1,4 @@
+{
+  "fileUris": ["https://raw.githubusercontent.com/pamontag/appo/master/config-docker.sh"],
+  "commandToExecute": "./config-docker.sh"
+}

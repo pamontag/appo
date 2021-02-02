@@ -1,3 +1,4 @@
 #!/bin/sh
+ls -l /var/run/docker.sock
 echo "Set permissions for docker ..."
-sudo chmod 666 /var/run/docker.sock
+chmod 666 /var/run/docker.sock
